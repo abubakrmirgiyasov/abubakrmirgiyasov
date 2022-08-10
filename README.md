@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abubakrmirgiyasov
+- 👋 Hi, I’m Abubakr
 - 👀 I’m interested in programming language C#
 - 🌱 I’m currently learning programming language C#
 - 📫 How to reach me? Just pray for me
